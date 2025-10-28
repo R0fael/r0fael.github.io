@@ -1,5 +1,3 @@
-# My Portfolio
-
 ## 👋 About me
 Hello, my name is Roman Slobodchikov and I am a unity game designer and programmer with four years of experience with  unity engine. I have made various projects, but here I am going to show the most important ones.
 
